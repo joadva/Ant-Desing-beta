@@ -1,5 +1,8 @@
 {
   "header": {
     "hello-word": "Hola  Mundo"
+  },
+  "SideBar": {
+    "Home-bar": "Inicio"
   }
 }
