@@ -281,7 +281,7 @@ class Map extends React.Component {
                     style={{ position: "relative", overflow: "hidden" }}
                   >
                     <MapWrapper
-                      googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYmwI659hJbDARc_MfrxgpSQrYve7qsyM"
+                      googleMapURL="https://maps.googleapis.com/maps/api/js?key="
                       loadingElement={<div style={{ height: `100%` }} />}
                       containerElement={<div style={{ height: `100%` }} />}
                       mapElement={<div style={{ height: `100%` }} />}
